@@ -3,9 +3,7 @@
 ChannelingAnyWeather is a Minecraft Spigot/Bukkit plugin that allows tridents with the `Channeling` enchantment to summon lightning in any weather conditions, regardless of rain or thunderstorms. 
 
 ## Features
-- **Channeling in Any Weather**: Use Channeling-enchanted tridents without worrying about the weather.
-- **Lightning Strike Effects**: Lightning strikes at the target location (block or entity) of the trident.
-- **Sound Effects**: Plays a thunder sound when the lightning strikes.
+- use trident channeling in any weather duh
 
 ## Requirements
 - Minecraft Server: Spigot or Bukkit 1.21.1
