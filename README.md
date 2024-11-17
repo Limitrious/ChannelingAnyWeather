@@ -48,7 +48,7 @@ Feel free to fork the repository and submit a pull request. Contributions are we
 This project is licensed under the [MIT License](LICENSE).
 
 ## Author
-Created by YourName.
+Created by Limitrious.
 
 ## Acknowledgments
 - [Spigot API](https://www.spigotmc.org/wiki/spigot-api/) for enabling Minecraft plugin development.
