@@ -1,6 +1,6 @@
 name: ChannelingAnyWeather
 version: 1.0
-main: com.example.channelinganyweather.ChannelingAnyWeather
+main: com.Limitrious.channelinganyweather.ChannelingAnyWeather
 description: A plugin that enables Channeling tridents to summon lightning in any weather.
 api-version: 1.21
 author: Limitrious
