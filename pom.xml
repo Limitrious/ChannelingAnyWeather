@@ -2,14 +2,14 @@
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.example</groupId>
+    <groupId>com.limitrious.plugin</groupId>
     <artifactId>channelinganyweather</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
 
     <name>ChannelingAnyWeather</name>
     <description>A plugin that enables Channeling tridents to summon lightning in any weather.</description>
-    <url>http://www.example.com</url>
+    <url>https://github.com/Limitrious/ChannelingAnyWeather</url>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
